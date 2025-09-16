@@ -11,15 +11,11 @@
 Here you can find some of my favorite project
 - 🔗 [N Body Simulation 1](https://github.com/) — Really cool super optimized n-body simulation, you can read my blog post about it here: 
 - 🔗 [CollegeLLM Project](Private Repo) — Got too tired checking the unorganized online caffeteria menu, as well as my major requirements, so I created a programme where an LLM can answer questions about my college through a website
-- 🔗 [Drawing AI Guess](https://github.com/) — An AI model that can try to guess any drawing you make. [Working on deploying this project]  
+- 🔗 [Drawing Guesser](https://github.com/) — An AI model that can try to guess any drawing you make. [Working on deploying this project]  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeverC0de&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeverC0de&layout=compact&theme=tokyonight)
 
----
 
 ## 💻 Languages & Tools
 
@@ -35,5 +31,8 @@ Here you can find some of my favorite project
 </p>
 
 ---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeverC0de&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeverC0de&layout=compact&theme=tokyonight)
 
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
+---
