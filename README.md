@@ -32,7 +32,7 @@ Here you can find some of my favorite projects
 </p>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeverC0de&layout=compact&theme=tokyonight)
 
 ---
