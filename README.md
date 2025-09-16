@@ -1,20 +1,21 @@
 
-## 🌟 About Me
+## 🌟 About Me                                           ## 🌟 About Me
 - 🎓 Studying Computer Science at [Whitman College]
 - 💡 Interested in alot of stuff as you can see in my projects! I hope to find a specific niche to break into!
 - 🛠️ Always exploring new technologies and sharpening my skills. 
 - 🎯 Goal: To build solutions that make a difference while learning and having fun.
 
 ---
+## 📖 My Blog
+I share my thoughts (in French), and projects here: [My Blog]((https://feverc0de.github.io/))
 
-## 📌 Featured Projects
-Here you can find some of my favorite project
+## 📌 Very Cool Projects
+Here you can find some of my favorite projects
 - 🔗 [N Body Simulation 1](https://github.com/) — Really cool super optimized n-body simulation, you can read my blog post about it here: 
 - 🔗 [CollegeLLM Project](Private Repo) — Got too tired checking the unorganized online caffeteria menu, as well as my major requirements, so I created a programme where an LLM can answer questions about my college through a website
 - 🔗 [Drawing Guesser](https://github.com/) — An AI model that can try to guess any drawing you make. [Working on deploying this project]  
 
 ---
-
 
 
 ## 💻 Languages & Tools
