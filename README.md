@@ -1,5 +1,5 @@
 
-## 🌟 About Me                                           ## 🌟 About Me
+## 🌟 About Me                                        
 - 🎓 Studying Computer Science at [Whitman College]
 - 💡 Interested in alot of stuff as you can see in my projects! I hope to find a specific niche to break into!
 - 🛠️ Always exploring new technologies and sharpening my skills. 
