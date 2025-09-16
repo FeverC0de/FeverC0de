@@ -12,7 +12,7 @@ I share my thoughts (in French), and projects here: [My Blog]((https://feverc0de
 ## 📌 Very Cool Projects
 Here you can find some of my favorite projects
 - 🔗 [N Body Simulation 1](https://github.com/) — Really cool super optimized n-body simulation, you can read my blog post about it here: 
-- 🔗 [CollegeLLM Project](Private Repo) — Got too tired checking the unorganized online caffeteria menu, as well as my major requirements, so I created a programme where an LLM can answer questions about my college through a website
+- 🔗 [CollegeLLM Project] — Got too tired checking the unorganized online caffeteria menu, as well as my major requirements, so I created a programme where an LLM can answer questions about my college through a website
 - 🔗 [Drawing Guesser](https://github.com/) — An AI model that can try to guess any drawing you make. [Working on deploying this project]  
 
 ---
