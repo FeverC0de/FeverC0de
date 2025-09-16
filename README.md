@@ -7,7 +7,7 @@
 
 ---
 ## 📖 My Blog
-I share my thoughts (in French), and projects here: [My Blog](https://feverc0de.github.io/)
+I share my thoughts (in French) and English), and projects here: [My Blog](https://feverc0de.github.io/)
 
 ## 📌 Very Cool Projects
 Here you can find some of my favorite projects
