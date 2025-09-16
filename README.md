@@ -1,5 +1,5 @@
 
-## 🌟 About Me                                        
+## 🌟 Just a little bit about me
 - 🎓 Computer science student at Whitman College. Currently in my sophmore year!
 - 💡 Interested in alot of stuff as you can see in my projects! I hope to find a specific niche to break into!
 - 🛠️ Always exploring new technologies and sharpening my skills. 
