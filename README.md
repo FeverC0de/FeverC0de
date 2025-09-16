@@ -1,6 +1,6 @@
 
 ## 🌟 About Me                                        
-- 🎓 Studying Computer Science at [Whitman College]
+- 🎓 Computer Science Student at Whitman College. Currently in my Sophmore!
 - 💡 Interested in alot of stuff as you can see in my projects! I hope to find a specific niche to break into!
 - 🛠️ Always exploring new technologies and sharpening my skills. 
 - 🎯 Goal: To build solutions that make a difference while learning and having fun.
