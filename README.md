@@ -34,8 +34,4 @@ Here you can find some of my favorite projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
 </p>
 
----
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FeverC0de&layout=compact&theme=tokyonight)
 
----
