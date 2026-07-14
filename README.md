@@ -9,10 +9,13 @@
 ## My Blog
 I share my thoughts (in French and English), and projects here: [My Blog](https://feverc0de.github.io/)
 
+## Work
+Currently working on an opensource highly optimized Delay Differential Equation Library. Should be released hopefully by the end of the summer!
+
 ## Very Cool Projects
 Here you can find some of my favorite projects
 - 🔗 [N Body Simulation ](https://github.com/FeverC0de/N_Body_Simulation) — Really cool super optimized n-body simulation, you can read my blog post about it [here](https://feverc0de.github.io/posts/n-body-shenanigans/)
-- 🔗 [Geospatial Economic Data Visualizer] — Made an app which automatically detects where you are in the world, and displays relevant economic data, handy to get quick insights once you land in a new country as an Economist
+- 🔗 [Geospatial Economic Data Visualizer](https://github.com/FeverC0de/world-bank-project) — Made an app which automatically detects where you are in the world, and displays relevant economic data, handy to get quick insights once you land in a new country as an Economist
 - 🔗 [Drawing Guesser](https://github.com/FeverC0de/what-you-drawing) — An AI model that can try to guess any drawing you make. [Try it out here](https://feverc0de.github.io/what-you-drawing/)  
 
 ---
