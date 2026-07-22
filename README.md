@@ -32,11 +32,15 @@ Here you can find some of my favorite projects:
 
 ## Languages & Tools
 
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)](https://github.com/FeverC0de)
-[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg)](https://github.com/FeverC0de)
+## Languages & Tools
+ 
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/FeverC0de"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/></a>
+ 
+
