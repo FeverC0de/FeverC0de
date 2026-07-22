@@ -1,40 +1,42 @@
-
 ## Just a little bit about me
-- Computer science student at Whitman College. Currently in my sophmore year!
-- Interested in alot of stuff as you can see in my projects! I hope to find a specific niche to break into!
-- Always exploring new technologies and sharpening my skills. 
-- Goal: To build solutions that make a difference while learning and having fun.
+
+- Computer science student at Whitman College, currently a sophomore.
+- Focused on systems and performance — from distributed computing to machine learning infrastructure.
+- Always exploring new technologies and sharpening my skills.
+- Goal: to build solutions that make a difference while learning and having fun along the way.
 
 ---
+
 ## My Blog
+
 I share my thoughts (in French and English), and projects here: [My Blog](https://feverc0de.github.io/)
 
 ## Work
-Currently working on an opensource highly optimized Delay Differential Equation Library as an HPC student researcher. Should be released hopefully by the end of the summer!
+
+Currently building an open source, highly optimized Delay Differential Equation library as an HPC student researcher — using hybrid MPI/OpenMP parallelism to achieve a 100x speedup over serial computation on a 10,000+ node SEIR epidemiological simulation. Planned release by the end of summer.
 
 ## Very Cool Projects
-Here you can find some of my favorite projects
-- 🔗 [N Body Simulation ](https://github.com/FeverC0de/N_Body_Simulation) — Really cool super optimized n-body simulation, you can read my blog post about it [here](https://feverc0de.github.io/posts/n-body-shenanigans/)
-- 🔗 [Drawing Guesser](https://github.com/FeverC0de/what-you-drawing) — An AI model that can try to guess any drawing you make. [Try it out here](https://feverc0de.github.io/what-you-drawing/)  
-- 🔗 [Geospatial Economic Data Visualizer](https://github.com/FeverC0de/world-bank-project) — Made an app which automatically detects where you are in the world, and displays relevant economic data, handy to get quick insights once you land in a new country as an economist
 
-## Work in progress
-- 🔗 College AI Project — Ask AI anything about the college, scrapes academic information, major, minors, course schedule data, and cafeteria menu data, stores em in a nice SQL database, and uses RAG to reduce context use.
-- 🔗 Language Journal — 5 minute daily journals, evaluates you based on vocab, conciseness, grammar, and sentence structures. Awards and keeps tracks of points which indicate daily improvement of language writing, (mostly french for now).
+Here you can find some of my favorite projects:
+
+- 🔗 [N Body Simulation](https://github.com/FeverC0de/N_Body_Simulation) — A highly optimized n-body simulation. Read the blog post [here](https://feverc0de.github.io/posts/n-body-shenanigans/).
+- 🔗 [Drawing Guesser](https://github.com/FeverC0de/what-you-drawing) — An AI model that guesses your drawings in real time. [Try it out here](https://feverc0de.github.io/what-you-drawing/).
+- 🔗 [Geospatial Economic Data Visualizer](https://github.com/FeverC0de/world-bank-project) — Automatically detects your location and displays relevant economic data — handy for quick insights when landing in a new country.
+
+## Work in Progress
+
+- 🔗 College AI Project — Ask AI anything about the college. Scrapes academic information (majors, minors, course schedules, and cafeteria menus), stores it in a SQL database, and uses RAG to reduce context usage.
+- 🔗 Language Journal — Five-minute daily journals evaluated on vocabulary, conciseness, grammar, and sentence structure. Tracks points to measure daily improvement in language writing (currently focused on French).
 
 ---
 
 ## Languages & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
-</p>
-
-
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)](https://github.com/FeverC0de)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg)](https://github.com/FeverC0de)
