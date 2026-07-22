@@ -13,7 +13,7 @@ I share my thoughts (in French and English), and projects here: [My Blog](https:
 
 ## Work
 
-Currently building an open source, highly optimized Delay Differential Equation library as an HPC student researcher — using hybrid MPI/OpenMP parallelism to achieve a 100x speedup over serial computation on a 10,000+ node SEIR epidemiological simulation. Planned release by the end of summer.
+Currently building an open source, highly optimized Delay Differential Equation library as an HPC student researcher. Planned release by the end of summer.
 
 ## Very Cool Projects
 
